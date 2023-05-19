@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements JsonTask.JsonTask
             }
         });
 
+        //initialize necessary components.
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         recyclerView = findViewById(R.id.recyclerView);

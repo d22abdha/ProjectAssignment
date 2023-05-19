@@ -23,6 +23,6 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:background="#222222"
-        android:textColor="#ffffff" />
+
+      />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -40,8 +40,8 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.MyViewHolder>
         String name = countries.get(position).getName();
         String location = countries.get(position).getLocation();
         String company = countries.get(position).getCompany();
-        int Size = countries.get(position).getSize();
-        int population = countries.get(position).getPopulation();
+      //  int Size = countries.get(position).getSize();
+       // int population = countries.get(position).getPopulation();
 
         holder.countryText.setText("name: " + name + "\nLocation: " + location + "\nCompany: " + company );
     }

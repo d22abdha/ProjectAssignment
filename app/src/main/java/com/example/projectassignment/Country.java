@@ -2,12 +2,6 @@ package com.example.projectassignment;
 
 import com.google.gson.annotations.SerializedName;
 
-
-/*
-
-ID":"d22abdha_1","name":"Sverige","type":"d22abdha","company":
-"Europa","location":"","category":"","size":0,"cost":10000000,"auxdata":""}
- */
 public class Country {
 
     String ID;
